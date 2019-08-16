@@ -1,0 +1,5 @@
+com\microservices2\exercise1\notification\config\StreamsConfig.class
+com\microservices2\exercise1\notification\model\Notification.class
+com\microservices2\exercise1\notification\stream\NotificationStreams.class
+com\microservices2\exercise1\notification\ApiNotificationApplication.class
+com\microservices2\exercise1\notification\listener\NotificationListener.class
